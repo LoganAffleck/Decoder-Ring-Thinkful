@@ -11,7 +11,8 @@ If you are interested in running this project on your own computer:
 2. Download the files in this repository.
 3. Open Terminal or Windows Powershell (If Windows, open with Admin Privileges)
 4. Type `cd`, followed by the filepath to your downloaded folder, and hit ENTER. (Example: `cd ~/Desktop/Decoder-Ring-Thinkful`)
-5. Enter `npm install` (If you're on MacOS: type `sudo npm install`, then your password, to run this command with admin privileges.)
+5. Enter `npm install` 
+    1. If you're on MacOS: type `sudo npm install`. Terminal will ask for your password to run this command with admin privileges.
 6. Enter `npm start`
 7. The application will open in your default web browser. 
 
